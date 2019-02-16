@@ -1,0 +1,7 @@
+import threading
+
+def printHello():
+    print("hello thread")
+
+mythread = threading.Thread(target=printHello)
+mythread.start

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1541879979 source:/home/pi/Code/C++/HelloWorld/main.cpp
+	<iostream>
+
